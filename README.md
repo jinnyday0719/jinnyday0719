@@ -1,4 +1,4 @@
-## 사용가능한 언어
+<h2 align="center">사용가능한 언어</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
