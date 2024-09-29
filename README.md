@@ -1,4 +1,4 @@
-<h align="center">사용 가능한 언어</h>
+<h1 align="center">사용 가능한 언어</h1>
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
