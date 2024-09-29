@@ -9,6 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-<a href="https://www.instagram.com/jinnyday0719" target="_blank">
+<a href="https://www.instagram.com/jinnyday0719">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
