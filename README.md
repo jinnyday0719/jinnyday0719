@@ -1,10 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <!-- 왼쪽 기타 이미지 -->
-  <img src="image/tele.png" alt="기타 1" width="200" />
+<p align="left">
+  <img src="image/tele.png" alt="기타 1" width="200" style="float: left; margin-right: 20px;">
+  <img src="image/bass.png" alt="기타 2" width="200" style="float: right; margin-left: 20px;">
+</p>
 
-  <!-- 중앙에 텍스트 추가 -->
-  <div style="margin: 0 20px;">여기에 원하는 내용 추가</div>
-
-  <!-- 오른쪽 기타 이미지 -->
-  <img src="image/bass.png" alt="기타 2" width="200" />
-</div>
+<p align="center">
+  여기에 원하는 내용을 넣을 수 있습니다. 텍스트는 이미지 사이에 배치됩니다.
+</p>
