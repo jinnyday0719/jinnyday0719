@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
+</p>
 <h1 align="center">무엇을 할 수 있나?</h1>
 <p align="center">
   <br>
