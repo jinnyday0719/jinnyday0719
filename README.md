@@ -25,10 +25,14 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 <br>
-<h1 align="center">주로 사용하는 OS</h1>
+<h1 align="center">개발 환경</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AMD-B550M-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RAM-DDR4_32GB-0078D6?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power-700W-FF6600?style=for-the-badge&logo=power&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 <p align="center">
   <a href="mailto:jinntyday0719@gmail.com">
