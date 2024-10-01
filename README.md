@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin's%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-- 👋 안녕하세요 저는 안서진 입니다!  
+- 👋 안녕하세요 저는 [안서진](https://github.com/jinnyday0719)입니다!  
 - 🔥 저는 AI와 소프트웨어 프로그래밍에 열정을 가진 학생입니다.  
 - 🌱 아직까진 대학 진학을 목표로 하고 있으며, 다양한 프로젝트를 통해 성장하고 있어요!
 
