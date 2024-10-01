@@ -45,6 +45,8 @@
   </a>
 </p>
 <div align="left">
-<img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
-<img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
+  <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
+  <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
+  <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
+  <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
 </div>
