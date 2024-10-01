@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-<div align="right">
+<div align="left">
 <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
 <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
 </div>
