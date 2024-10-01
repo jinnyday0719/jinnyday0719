@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
-# 무엇을 할 수 있나?
+<h1 align="center">무엇을 할 수 있나?</h1>
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
@@ -18,6 +18,6 @@
   <a href="https://www.instagram.com/jinnyday0719">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>https://chatgpt.com/c/66fbff32-ec20-8005-b338-4392666728ec
+</p>
 <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
 <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
