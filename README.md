@@ -33,6 +33,9 @@
 | ![AMD B550M](https://img.shields.io/badge/AMD-B550M-ED1C24?style=for-the-badge&logo=amd&logoColor=white) | ![DDR4 32GB RAM](https://img.shields.io/badge/RAM-DDR4_32GB-0078D6?style=for-the-badge&logo=databricks&logoColor=white) |
 | ![Power 700W](https://img.shields.io/badge/Power-700W-FF6600?style=for-the-badge&logo=power&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 </div>
+<br>
+<br>
+<br>
 <p align="center">
   <a href="mailto:jinntyday0719@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
