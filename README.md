@@ -22,7 +22,8 @@
 <br>
 <h2 align="center">주로 사용하는 도구</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white" />
 </p>
 <br>
 <h2 align="center">개발 환경</h2>
