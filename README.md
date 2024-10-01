@@ -45,12 +45,12 @@
   </a>
 </p>
 <div align="center">
-<div align="left">
-  <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
-  <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
-</div>
-<div align="right">
-  <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
-  <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
-</div>
+  <div align="left">
+    <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
+    <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
+  </div>
+  <div align="right">
+    <img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
+    <img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
+  </div>
 </div>
