@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+#무엇을 할 수 있나?
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
