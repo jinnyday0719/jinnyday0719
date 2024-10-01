@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
 </p>
-저는 AI와 소프트웨어 프로그래밍에 열정을 가진 개발자입니다. 아직까진 대학 진학p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!😊&desc=This%20is%20Seojin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40" />
-</p>
 저는 AI와 소프트웨어 프로그래밍에 열정을 가진 개발자입니다. 아직까진 대학 진학을 목표로 하고 있으며, 다양한 프로젝트를 통해 성장하고 있습니다.
 <h1 align="center">무엇을 할 수 있나?</h1>
 <p align="center">
