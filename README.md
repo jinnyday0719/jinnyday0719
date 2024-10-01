@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <img src="image/tele.png" alt="기타 1" width="400"/>
+      <img src="image/tele.png" alt="기타 1" width="200"/>
     </td>
     <td align="center">
       <!-- 중앙 빈 공간 -->
