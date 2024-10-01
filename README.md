@@ -16,5 +16,5 @@
 <a href="https://www.instagram.com/jinnyday0719">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<img src="https://i.ibb.co/B4tMvt1/bass.png" width="100"/>
-<img src="https://i.ibb.co/K65D9n9/tele.png" width="100"/>
+<img src="https://i.ibb.co/B4tMvt1/bass.png" width="200"/>
+<img src="https://i.ibb.co/K65D9n9/tele.png" width="200"/>
