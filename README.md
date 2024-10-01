@@ -8,7 +8,7 @@
 - 🌐 [이건 제가 중학생때부터 만들고있는 페이지에요.](http://asj.dothome.co.kr)
 - 🎸 여가 시간에는 **기타**와 **베이스**를 치며 즐깁니다.
 <br>
-<h1 align="center">무엇을 할 수 있나?</h1>
+<h1 align="center">내가 다룰 수 있는 기술</h1>
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 <h1 align="center">주로 사용하는 OS</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 <p align="center">
   <a href="mailto:jinntyday0719@gmail.com">
