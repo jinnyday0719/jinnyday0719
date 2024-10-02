@@ -32,8 +32,9 @@
 | ![AMD Ryzen 5600](https://img.shields.io/badge/AMD-Ryzen_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) | ![AMD B550M](https://img.shields.io/badge/AMD-B550M-ED1C24?style=for-the-badge&logo=amd&logoColor=white) |
 |--------|--------|
 | ![NVIDIA RTX 3070](https://img.shields.io/badge/NVIDIA-RTX_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | ![DDR4 32GB RAM](https://img.shields.io/badge/RAM-DDR4_32GB-0078D6?style=for-the-badge&logo=databricks&logoColor=white) |
-| ![Power 700W](https://img.shields.io/badge/Power-700W-FF6600?style=for-the-badge&logo=power&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
+| ![Power 700W](https://img.shields.io/badge/Power-700W-FF6600?style=for-the-badge&logo=power&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 <br>
+
 ![setup](https://i.ibb.co/s24y1fn/setup.jpg)
 </div>
 <br>
