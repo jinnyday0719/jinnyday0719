@@ -35,6 +35,7 @@
 | ![Power 700W](https://img.shields.io/badge/Power-700W-FF6600?style=for-the-badge&logo=power&logoColor=white) | ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 </div>
 <br>
+<img src="https://i.ibb.co/s24y1fn/setup.jpg/>
 <br>
 <br>
 <p align="center">
